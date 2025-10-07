@@ -1,5 +1,40 @@
 [
   {
+    "title": "アマゾンの生成AIアシスタントQ Business、回答精度の問題でアクセンチュアらの苦情殺到していた",
+    "link": "https://www.businessinsider.jp/article/amazon-q-significantly-behind-rivals-accuracy-first-year-2025-10/",
+    "pubDate": "Mon, 06 Oct 2025 22:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "アマゾンが自社開発したエンタープライズ向け生成AIアシスタント「Q Business」はリリースから少なくとも1年、回答精度の問題に苦しみ続けたようです。\nデータ処理や会話フローに関する問題が続出し、顧客企業からは多くの苦情が寄せられました。"
+  },
+  {
+    "title": "販売台数中国2位、輸出トップなのに知名度が低い中国自動車メーカー、ついに上場",
+    "link": "https://www.businessinsider.jp/article/2510-insidechina-chery-automobile/",
+    "pubDate": "Mon, 06 Oct 2025 22:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "中国国有自動車メーカーの奇瑞汽車（チェリー）が9月25日に香港証券取引所に上場しました。2000年代に中国の自動車業界を席巻した、知る人ぞ知る企業ですが、なぜこれほど上場が遅れたのでしょうか。"
+  },
+  {
+    "title": "影響を受けにくい仕事はある…AI政治学の教授がAI時代を生き抜く方法をアドバイス",
+    "link": "https://www.businessinsider.jp/article/2510-ai-politics-professor-shares-jobs-least-likely-be-automated/",
+    "pubDate": "Mon, 06 Oct 2025 22:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "AI政治学の教授は、貿易や介護の仕事はAIの影響を受けにくいと述べました。また、若い労働者には柔軟性を保ち、強力なネットワークを構築するように勧めています。"
+  },
+  {
+    "title": "ゴールドマンのデータ責任者が警告する「AI訓練データの枯渇」。データ不足が次世代AIに与えるリスク",
+    "link": "https://www.businessinsider.jp/article/ai-data-shourtage-training-output/",
+    "pubDate": "Mon, 06 Oct 2025 21:45:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "AIをトレーニングするデータはすでに使い果たされているといわれる一方、まだ未使用のデータも存在するようです。果たして、AIの急成長は終わりを迎えるのでしょうか。"
+  },
+  {
+    "title": "Airbnb、JTBと連携で地方の空き家を“ホテル”に。「三方良し」で、インバウンド対応と社会課題解決目指す",
+    "link": "https://www.businessinsider.jp/article/2510-airbnb-jtb-vacant-house-in-japan-strategy/",
+    "pubDate": "Mon, 06 Oct 2025 21:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "JTBとAirbnbが、日本の空き家を訪日客向け宿泊施設として有効活用しようと、取り組みを加速させています。"
+  },
+  {
     "title": "直木賞作家・朝井リョウが「推しビジネス」を通じて描きたかったもの。2週間で10万部突破の衝撃作",
     "link": "https://www.businessinsider.jp/article/2510-asai-ryo-in-the-mega-church/",
     "pubDate": "Mon, 06 Oct 2025 12:00:00 GMT",
@@ -33,41 +68,6 @@
     "pubDate": "Mon, 06 Oct 2025 08:00:00 GMT",
     "source": "Business Insider Japan",
     "contentSnippet": "モーリス・ン氏は、故郷の香港を逃れ、無一文でアメリカにやってきました。 彼はいま、チャンスに恵まれない人の起業を支援するため資金調達に奔走していますが、そのきっかけとなったのは「自分に与えられた時間」をスプレッドシートで計算したことでした。"
-  },
-  {
-    "title": "フィンランド大手メッツァグループ✕伊藤忠、関西万博で語った脱化石燃料の挑戦",
-    "link": "https://www.businessinsider.jp/article/metsa-group-finland-advances-renewable-material-development/",
-    "pubDate": "Mon, 06 Oct 2025 03:35:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "化石燃料に頼らない社会をめざし、木材由来の素材で新産業を創出するメッツァグループ。フィンランドの森林から生まれる繊維「クーラ」や包装材「Muoto」誕生の背景に迫ります。"
-  },
-  {
-    "title": "「副操縦士」が多すぎる？…Copilot製品の混乱をマイクロソフトはどのように解決しようとしているのか【社内会議音声を入手】",
-    "link": "https://www.businessinsider.jp/article/2510-internal-audio-microsoft-copilot-confusion/",
-    "pubDate": "Mon, 06 Oct 2025 02:50:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "混乱は、同じCopilotという名を持つ複数のアプリから生じています。マイクロソフト社内の会議音声は、同社がこれに対してどう対処するかを示しています。"
-  },
-  {
-    "title": "マグニフィセント・セブンを超えるかも…AIで次の勝者となるハイテク銘柄5つ",
-    "link": "https://www.businessinsider.jp/article/2510-top-ai-stocks-magnificent-7-big-tech-avgo-mdb-orcl/",
-    "pubDate": "Mon, 06 Oct 2025 01:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "フューチャラム・グループは、AI関連株の値上がりは大手企業以外にも広がると予測しています。同社が次の勝者になると予測する銘柄を紹介します。"
-  },
-  {
-    "title": "米ウォルマート、自社ブランド食料品から合成着色料などを排除",
-    "link": "https://www.businessinsider.jp/article/2510-walmart-ditches-synthetic-dyes-in-store-brand-foods-ingredient-list/",
-    "pubDate": "Sun, 05 Oct 2025 22:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "ウォルマートは、サプライヤーと協力して、自社ブランド食品から合成着色料やその他約30種類の成分を排除していくと述べています。"
-  },
-  {
-    "title": "決算報告「年2回に軽減」で仕事を失う業界、儲かる業界。ホワイトカラーの負担は「結局変わらない」のか",
-    "link": "https://www.businessinsider.jp/article/2509-quarterly-earnings-trump-sec-accountants-lawyer-investor-relations-job-impact/",
-    "pubDate": "Sun, 05 Oct 2025 22:15:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "トランプ大統領が打ち出した「上場企業の決算報告が年2回に変更」が実現すると、ホワイトカラーのしごとにどんな影響を与えるのでしょうか。専門家の取材を通して検証しました。"
   },
   {
     "title": "MarqVisionに投資した理由──日本の知財とブランドを守る",
