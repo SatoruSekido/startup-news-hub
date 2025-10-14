@@ -1,5 +1,61 @@
 [
   {
+    "title": "AIとロボット職人の融合―、次世代電池開発を支える「TeraSpace」とは",
+    "link": "https://coralcap.co/2025/10/terawatt/?utm_source=rss&utm_medium=rss&utm_campaign=terawatt",
+    "pubDate": "Tue, 14 Oct 2025 00:00:49 +0000",
+    "source": "Coral Capital",
+    "contentSnippet": "電池作りが難解なワケ：神は細部に宿る 2024年11月、欧州の旗手だったリチウムイオン電池スタートアップのNorthvoltが米国で再建型破産手続を申請しました。その後、事業再建に向けて 2025年上半期にかけて調整を続 […]"
+  },
+  {
+    "title": "首相就任後26日、閣僚発表後14時間で辞任、4日後に同一人物が首相に再任命されたフランスの行く先",
+    "link": "https://www.businessinsider.jp/article/2510-macron-president-france-lecornu-prime-minister-return/",
+    "pubDate": "Tue, 14 Oct 2025 00:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": ""
+  },
+  {
+    "title": "デロイトがAIを使って作成した報告書に誤り…オーストラリア政府機関に一部返金",
+    "link": "https://www.businessinsider.jp/article/2510-deloitte-australia-issues-refund-ai-assurance-project/",
+    "pubDate": "Mon, 13 Oct 2025 22:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "オーストラリア政府機関はBusiness Insiderに対し、「デロイトは報告書の一部の脚注と参照元が誤っていたことを認めた」と語っています。"
+  },
+  {
+    "title": "一人勝ちから一人負けへ、BYDに何が起きているのか。販売が前年割れ、バフェット氏は株式全売却",
+    "link": "https://www.businessinsider.jp/article/2510-insidichina-byd-sales-sluggish/",
+    "pubDate": "Mon, 13 Oct 2025 22:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "中国自動車メーカーのBYDのEV販売台数が、年間で米テスラを超えて首位に立つ公算が大きくなっています。一方で、同社の販売は足元で失速し、株価はピーク時より3割下がっています。BYDに何が起きているのでしょうか。"
+  },
+  {
+    "title": "マイクロソフト、GitHubの全面刷新を計画。CursorなどAIコーディングツールの競争激化受け",
+    "link": "https://www.businessinsider.jp/article/microsoft-ai-coding-rivals-overhauling-github-2025-10/",
+    "pubDate": "Mon, 13 Oct 2025 21:45:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "マイクロソフト傘下の開発プラットフォームGitHubは、CursorやClaude Codeなど新たなAIコーディングツールとの苛烈な競争に直面しています。\nマイクロソフトは打開策として、「開発者が作業を行うあらゆる場所で利用可能なGitHub」構想の実現に取り組んでいるようです。"
+  },
+  {
+    "title": "アメリカのCEOの7割がAIによって組織構造が変わると考えている…KPMG USの調査で明らかに",
+    "link": "https://www.businessinsider.jp/article/2510-ceos-more-confident-that-their-ai-investments-will-pay-off/",
+    "pubDate": "Mon, 13 Oct 2025 21:40:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "アメリカの大企業のCEOたちは、AIへの投資が成果をもたらすと確信しています。しかし、その結果として組織がどう変わるのかは明確ではありません。"
+  },
+  {
+    "title": "OpenAIの社内向け営業支援ツール、ソフトウェア業界を震撼させたその驚くべき性能を開発者が解説",
+    "link": "https://www.businessinsider.jp/article/openai-saas-software-tools-including-openhouse-hr-sales-support-2025-10/",
+    "pubDate": "Mon, 13 Oct 2025 21:35:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "オープンAIは10月6日に開催した開発者向け年次カンファレンス「DevDay」のセッションで社内向けビジネスツールを披露しました。\nソフトウェア企業にインフラとしてのAIを提供してきたオープンAIが競合製品を社内開発していたことが分かり、投資家の間に動揺が走っています。"
+  },
+  {
+    "title": "73歳になったプーチン氏が決して語らない「戦争」終結の困難さ。ロシア経済は「まだ耐えられる」けれど…",
+    "link": "https://www.businessinsider.jp/article/the-difficulty-of-ending-the-war-putin-never-talks-about/",
+    "pubDate": "Mon, 13 Oct 2025 21:15:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "プーチン大統領が先週10月7日、73歳の誕生日を迎えました。3年以上の軍事侵攻は、経済的には継続可能でも、政治的な困難さが増しているとロシア分析を担当するエコノミストは語ります。"
+  },
+  {
     "title": "セールスフォース、「Slack」を大型アップデート。4つのポイントで解説…新基盤「Agentforce 360」も",
     "link": "https://www.businessinsider.jp/article/2510-salesforce-slack-update-agentforce-360/",
     "pubDate": "Mon, 13 Oct 2025 12:01:00 GMT",
@@ -19,55 +75,6 @@
     "pubDate": "Sun, 12 Oct 2025 23:40:00 GMT",
     "source": "Business Insider Japan",
     "contentSnippet": "『ダムゼル』や『リフト』のような映画がネットフリックスで配信されることを、あなたはおそらく知らなかったでしょう。しかし、これらの映画は、2024年に最も多く視聴された映画のリストで上位にランクインしました。"
-  },
-  {
-    "title": "「ウォーレン・バフェットはまだ終わっていない」…支持者は最新の企業買収を称賛",
-    "link": "https://www.businessinsider.jp/article/2510-warren-buffett-berkshire-hathway-oxychem-deals-acquisitions-investing-oxy-retirement/",
-    "pubDate": "Sun, 12 Oct 2025 23:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "ウォーレン・バフェット率いるバークシャー・ハサウェイは、オキシケムを97億ドルで買収する予定です。バフェットの支持者はこの買収を歓迎し、さらなる買収を期待しています。"
-  },
-  {
-    "title": "関税だけではない、米利下げの裏に潜むトランプの思惑…FRB独立性喪失が招く「ドル不安とインフレ」",
-    "link": "https://www.businessinsider.jp/article/2510-trump-economic-policy/",
-    "pubDate": "Sun, 12 Oct 2025 21:10:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "自民党新総裁に高市早苗氏が選出されたあと、1週間で日経平均が過去最高を更新。円安も進みました。ただ日本経済の今後を占う上では、アメリカ・トランプ政権の動向も忘れてはなりません。日本の関税にかかわる議論が一定収束した今、いまアメリカでは何が起こっているのでしょうか。"
-  },
-  {
-    "title": "ハワイ育ちの私は、ハワイ移住を勧めない。それでも移住したい人が知っておくべき13のポイント",
-    "link": "https://www.businessinsider.jp/article/2510-dont-reccommend-moving-to-hawaii-what-to-know-local-advice/",
-    "pubDate": "Sun, 12 Oct 2025 08:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "筆者は、人々が夢見る熱帯の保養地、ハワイで生まれ育ちました。しかし、ハワイへの移住は費用がかかり、住居の確保や荷物の配送のほか、様々な対応が必要になるといいます。また移住者は、意図せず地元の問題を悪化させる可能性があります。"
-  },
-  {
-    "title": "モールス信号の発明者が所有していた45部屋のイタリア風ヴィラを見学してきた",
-    "link": "https://www.businessinsider.jp/article/2510-historic-homes-to-visit-mansion-tour-locust-grove-photos/",
-    "pubDate": "Sun, 12 Oct 2025 06:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "発明家のサミュエル・モールスは、ニューヨークにあるローカスト・グローブ邸で夏を過ごしました。1万4000平方フィートのこの邸宅は6層に45の部屋があります。"
-  },
-  {
-    "title": "成功した男性が愛用する腕時計6本",
-    "link": "https://www.businessinsider.jp/article/2510-watches-successful-men-wear-every-day/",
-    "pubDate": "Sat, 11 Oct 2025 23:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "多くの成功した男性にとって、時計はワードローブの中心的な存在です。手頃な価格でシックな時計を愛用する人もいれば、贅沢に高級時計にお金をかける人もいます。"
-  },
-  {
-    "title": "窓のない未来的なプライベートジェット…すでに300機の受注を獲得",
-    "link": "https://www.businessinsider.jp/article/2510-see-inside-futuristic-windowless-private-jet-flexjet/",
-    "pubDate": "Sat, 11 Oct 2025 23:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "フレックスジェットのCEOはBusiness Insiderに対し、「スマートウィンドウ」を備えた航空機は未来の技術を求める顧客を惹きつけるだろうと語りました。"
-  },
-  {
-    "title": "【佐藤優】50代、役職定年も転職も茨の道。身につけたいのは「上手な負け方」",
-    "link": "https://www.businessinsider.jp/article/292061-a/",
-    "pubDate": "Sat, 11 Oct 2025 22:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "「役職定年を迎えたが、居心地が悪い」という読者からの相談に、佐藤優さんが回答。さまざまな調査から役職定年で多くの人のやる気が下がっていると指摘しつつ、「部下が冷たくなる」ようなケースの受け止め方もアドバイスします。"
   },
   {
     "title": "MarqVisionに投資した理由──日本の知財とブランドを守る",
@@ -117,12 +124,5 @@
     "pubDate": "Wed, 02 Apr 2025 22:50:52 +0000",
     "source": "Coral Capital",
     "contentSnippet": "本日はCoral Capitalにとってまた1つ大きな節目となるニュースをお伝えできることを大変うれしく思います。連続起業家として活躍してきた矢野莉恵が、私たちの投資チームにVenture Partnerとして加わること […]"
-  },
-  {
-    "title": "労働力拡大の終焉、AIが迫る組織モデルの再構築",
-    "link": "https://coralcap.co/2025/03/how-ai-is-redefining-economic-success/?utm_source=rss&utm_medium=rss&utm_campaign=how-ai-is-redefining-economic-success",
-    "pubDate": "Wed, 12 Mar 2025 01:19:34 +0000",
-    "source": "Coral Capital",
-    "contentSnippet": "数十年にわたり、経済や企業の成長モデルは「労働力の拡大」と密接に結びついてきました。従業員が増えれば増えるほど、生産量や消費、そしてGDPが拡大するという考え方です。企業レベルでも、営業担当、カスタマーサービス担当、エン […]"
   }
 ]
