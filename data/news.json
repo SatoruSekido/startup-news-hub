@@ -1,5 +1,61 @@
 [
   {
+    "title": "企業の出社義務がますます「強硬化」している。米自動車大手は「従わなければ解雇も」とメール。しかし、道は困難か",
+    "link": "https://www.businessinsider.jp/article/2510-ford-workers-rto-warned-emails-fired-office-attendance/",
+    "pubDate": "Wed, 15 Oct 2025 21:45:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": ""
+  },
+  {
+    "title": "マイクロソフトが放棄した米軍「220億ドル」MRゴーグル開発に「代打」Oculus創業者が出した神回答",
+    "link": "https://www.businessinsider.jp/article/anduril-meta-launch-eagleeye-military-wearables-ar-technology-2025-10/",
+    "pubDate": "Wed, 15 Oct 2025 21:35:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "防衛テックを手がけるアンドゥリル・インダストリーズは10月13日、軍事用視覚デバイススイート「EagleEye（イーグルアイ）」を発表しました。各デバイスにはメタ・プラットフォームズのAR（拡張現実）技術が使われています。"
+  },
+  {
+    "title": "50代からの挑戦は「生まれ変わる」覚悟で。人生後半の戦い方「Z世代も今からすべき自己理解について」",
+    "link": "https://www.businessinsider.jp/article/2510-second-half-of-life-strategy/",
+    "pubDate": "Wed, 15 Oct 2025 21:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "大手企業が続々と早期退職を実施し、2025年の早期退職者が1万人を突破しました。早期退職後の残りの人生は何をすればいいのでしょうか。入山先生は、「50代で意思決定して次のチャレンジをするというようにしないと、60代だと遅い」と指摘します。"
+  },
+  {
+    "title": "フォーエバー21、ヨーカドー向けアパレル「撤退」の旧アダストリア、競合と協業する次の戦略",
+    "link": "https://www.businessinsider.jp/article/2510-adastria-transformation/",
+    "pubDate": "Wed, 15 Oct 2025 21:15:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "フォーエバー21やFOUNDGOODなど、相次いで事業撤退を発表したアンドエスティホールディングス（旧・アダストリア）が、次の戦略を語りました。"
+  },
+  {
+    "title": "リクシルがアルミリサイクルで覆す“常識”。リサイクル品“高くて質悪い”はもう古い",
+    "link": "https://www.businessinsider.jp/article/2510-lixil-aluminium-recycle/",
+    "pubDate": "Wed, 15 Oct 2025 21:10:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "リクシルがこの10月から、同社が製造するアルミニウムを使った全製品に、リサイクル素材を活用した低炭素アルミを「価格据え置き」で標準展開すると発表しました。富山県小矢部市にある工場で、その秘密を探りました。"
+  },
+  {
+    "title": "なぜ「飲みたい街ランキング」で渋谷が“一人負け”したか…識者が指摘「ある山手線駅の“成功パターン”」が復活の鍵",
+    "link": "https://www.businessinsider.jp/article/2510why-did-shibuya-lose-out/",
+    "pubDate": "Wed, 15 Oct 2025 21:05:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "若者の街の代表格の1つ、渋谷。平日でも観光客があふれかえる一方で、「飲みに行きたい街」としての評価が埼玉の大宮より低いという、意外な現象が起こっています。その背景には、街づくりの課題が……。"
+  },
+  {
+    "title": "AIは雇用を奪うはずだったが、シリコンバレーのオフィス市場は活性化している",
+    "link": "https://www.businessinsider.jp/article/2510-ai-supposed-kill-jobs-instead-hiring-office-boom/",
+    "pubDate": "Wed, 15 Oct 2025 21:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "一部のAI企業の幹部は、大規模な雇用喪失を予測しています。しかし、実際にはAI企業は大量に採用しているため、シリコンバレーのオフィス市場を押し上げています。"
+  },
+  {
+    "title": "アップル「M5搭載MacBook Pro」を発表。iPad Pro、Vision Pro新型には細かな“進化”も",
+    "link": "https://www.businessinsider.jp/article/2510-apple-m5-macbook-ipad-vision-pro/",
+    "pubDate": "Wed, 15 Oct 2025 21:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "アップルが新チップ「M5」を発表しました。AI性能が大幅に向上したM5を搭載する14インチMacBook Pro、iPad Pro、Apple Vision Proはどのように進化したのか。各製品の変更点や価格、発売日を詳しく解説します。"
+  },
+  {
     "title": "ポータブルPC「ROG Xbox Ally X」実機レビュー：「特別なゲーム最適化」に見るマイクロソフトの戦略",
     "link": "https://www.businessinsider.jp/article/2510-rog-xbox-ally-x-review/",
     "pubDate": "Wed, 15 Oct 2025 13:00:00 GMT",
@@ -12,62 +68,6 @@
     "pubDate": "Wed, 15 Oct 2025 12:00:00 GMT",
     "source": "Business Insider Japan",
     "contentSnippet": "セールスフォース（Salesforce）の年次イベント「Dreamforce 2025」が開幕しました。マーク・ベニオフCEOによる基調講演の模様を現地からレポートします。"
-  },
-  {
-    "title": "成功するリーダーに共通するただ1つの資質とは…行動科学者が指摘「リーダー研修は効果がない」",
-    "link": "https://www.businessinsider.jp/article/2510-successful-leader-quality-shared-leadership-trait/",
-    "pubDate": "Wed, 15 Oct 2025 10:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "行動科学者のジョン・レヴィーは多くのリーダーを研究し、最も成功した指導者は人々に明るい未来を信じさせることを発見しました。"
-  },
-  {
-    "title": "いまからNISAで「金」を買うなら、私はこうする",
-    "link": "https://www.businessinsider.jp/article/2510-if-i-were-to-buy-gold-with-nisa-now/",
-    "pubDate": "Wed, 15 Oct 2025 08:45:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "こちらはBusiness Insiderのニュースレター（無料）に掲載されたコラムです。このニュースレターでは、日替わりで編集部員がコラムを執筆しています。Money Insiderのマネーコラムは、毎週水曜日17時以降に配信しています。"
-  },
-  {
-    "title": "高校生が小池都知事に直球質問「女性が政治のリーダーになるには」「壁の乗り越え方は」",
-    "link": "https://www.businessinsider.jp/article/high-school-students-ask-tokyo-governor-koike-direct-questions/",
-    "pubDate": "Wed, 15 Oct 2025 08:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "「将来が不安」「何を選べばいいかわからない」そんな高校生の悩みに、小池都知事と『選択の科学』著者のシーナ・アイエンガー氏が答えました。"
-  },
-  {
-    "title": "ドン・キホーテのPPIHは、なぜこれほど株式市場で評価されるのか？ 時価総額3兆円企業が出来るまで",
-    "link": "https://www.businessinsider.jp/article/858ab357-c4b4-4119-80a1-e34b8aef3286/",
-    "pubDate": "Wed, 15 Oct 2025 08:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "ドン・キホーテを傘下に抱える持株会社PPIHは、日本で4番目に大きい売上高を誇り、時価総額ベースでは3兆円を超えています。PPIHはなぜこれほどまでに株式市場で評価をされているのか、会計とファイナンスの観点から分析をしていきます。"
-  },
-  {
-    "title": "AI研究者が指摘する、生成AIで「消滅する」5つのホワイトカラー仕事…もはや聖域はない",
-    "link": "https://www.businessinsider.jp/article/2506will-genai-eliminate-white-collar-jobs-a/",
-    "pubDate": "Wed, 15 Oct 2025 08:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "生成AIのこの半年の進展は、AI研究者から見ても「閾値を超えた」と表現するほどのイノベーションになり始めています。大手AI企業はホワイトカラーの仕事の半数がなくなると警鐘を鳴らす、その背景を追いました。"
-  },
-  {
-    "title": "幼稚園で投資教育？──元ゴールドマン田内学が語る「お金より大事なもの」",
-    "link": "https://www.businessinsider.jp/article/2510-illusion-of-money-anxiety/",
-    "pubDate": "Wed, 15 Oct 2025 02:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "『お金の向こうに人がいる』『きみのお金は誰のため』などのベストセラーで知られる田内学さんの最新作は、社会に蔓延する「お金への不安、焦り」を見つめ直す一冊。若いビジネスパーソンの間でも投資の必要性や老後不安が日常的に語られる今、必要なのは「お金」よりも「安心していられる場所」ではないか──。『お金の不安という幻想』は、“お金があれば安心できる”という思い込みから抜け出すための視点を提示する。田内さん"
-  },
-  {
-    "title": "トランプが操れなくなった「陰謀論」の逆襲：MAGA系議員も同調する「エプスタイン・ファイル」公開要求",
-    "link": "https://www.businessinsider.jp/article/2510trumps-runaway-conspiracy-theories/",
-    "pubDate": "Tue, 14 Oct 2025 21:40:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "共和党MAGA系女性議員が被害者と連携し、超党派でファイル公開法案を推進する異例の動きを見せています。\nトランプ氏はかつてエプスタインを「素晴らしい人物」と賞賛し、交友関係があった事実が報じられています。\nトランプ氏が自ら広めた陰謀論が、今や自身の支持層から反発を招いている…ニューヨーク在住の筆者の視点をレポートします。"
-  },
-  {
-    "title": "テスラ以外、EV購入補助を廃止した米国で黒字計上できる企業はほぼゼロ。最新データが示す過酷な現実",
-    "link": "https://www.businessinsider.jp/article/ev-market-us-training-wheels-off-tesla-survive-ford-gm-2025-10/",
-    "pubDate": "Tue, 14 Oct 2025 21:35:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "米国の電気自動車（EV）販売台数は7〜9月期に過去最高を更新しましたが、購入補助（税額控除）が9月末で廃止されたため、10月以降は不透明。テスラ以外のメーカーは利益確保に苦しみそうです。"
   },
   {
     "title": "AIとロボット職人の融合―、次世代電池開発を支える「TeraSpace」とは",
