@@ -1,5 +1,33 @@
 [
   {
+    "title": "一生に一度は見たい「一番新しい国宝絵画」（東京国立博物館）",
+    "link": "https://www.businessinsider.jp/article/takamisensekizo_must-see-in-a-lifetime/",
+    "pubDate": "Fri, 17 Oct 2025 12:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "「一生に一度は見たい美術品」をご紹介。今回は、東京国立博物館所蔵の国宝、渡辺崋山《鷹見泉石像》を取り上げます。"
+  },
+  {
+    "title": "スマホの裏に潜む“知られざる問題”。中央大生が三菱マテリアルと考えた「紛争鉱物」",
+    "link": "https://www.businessinsider.jp/article/2510-mitsubishi-materials-and-chuo-university-human-rights-workshop/",
+    "pubDate": "Fri, 17 Oct 2025 09:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "スマホに使われる鉱物が紛争や児童労働と結びついているかもしれない現実を知っていますか？三菱マテリアルと中央大学NOCKSが「責任ある調達」をテーマにワークショップを開催。学生たちの提案とは。"
+  },
+  {
+    "title": "日銀の「物価目標」は、なぜ 2％ なのか？ 目標達成の尺度となる&quot;基調的物価&quot;",
+    "link": "https://www.businessinsider.jp/article/2510-why-is-the-bank-of-japans-price-target-2percent/",
+    "pubDate": "Fri, 17 Oct 2025 08:30:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "デフレ脱却とインフレ期待の定着を狙い、日銀は2013年に「2％目標」を導入。ですが、この2％という数値は、理論的必然ではなく“国際的慣行”に基づく水準と言えます。最近では食料価格の上昇が基調的物価を押し上げていることが課題です。"
+  },
+  {
+    "title": "なぜスティーブ・ジョブスのように戦略を絞れないのか？ 「フォーカス」阻む2つの壁の乗り越え方",
+    "link": "https://www.businessinsider.jp/article/why-cant-you-narrow-down-your-strategy-like-steve-jobs-b/",
+    "pubDate": "Fri, 17 Oct 2025 08:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "「経営の肝は選択と集中」——頭では分かっていても、いざ自分が組織を率いる立場になるとあれもこれもやりたがる人が多いものです。元リクルートの中尾隆一郎さんは、1つのことにフォーカスすることを阻む「2つの壁」が存在すると指摘します。効果的にフォーカスすることで、「弱者」であっても勝機をモノにする方法を紹介します。"
+  },
+  {
     "title": "シルバー（銀）はゴールド（金）よりもリスクが大きい…ゴールドマン・サックスがその理由を解説",
     "link": "https://www.businessinsider.jp/article/2510-gold-price-today-silver-riskier-investment-central-banks-goldman-sachs/",
     "pubDate": "Fri, 17 Oct 2025 01:30:00 GMT",
@@ -21,13 +49,6 @@
     "contentSnippet": "昨今注目されるディープテックスタートアップ。ただ、スタートアップと大企業、研究者と投資家それぞれのポテンシャルを最大限に生かすには、どんなエコシステムが必要なのでしょうか。"
   },
   {
-    "title": "大企業が直面する「地政学リスク」。インテリジェンスの正確さが日本企業の「打ち手」を変える…ダウ・ジョーンズ新事業責任者に聞く",
-    "link": "https://www.businessinsider.jp/article/2510-dow-jones/",
-    "pubDate": "Thu, 16 Oct 2025 21:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "経済・金融情報大手ダウ・ジョーンズが9月、地政学的リスクや安全保障に関する情報を提供する企業向けサービスを開始しました。企業活動における地政学の知見の重要性が高まっています。"
-  },
-  {
     "title": "GM、電気自動車（EV）戦略を見直し…16億ドルの損失を計上",
     "link": "https://www.businessinsider.jp/article/2510-general-motors-hit-after-rolling-back-its-ev-plans/",
     "pubDate": "Thu, 16 Oct 2025 21:00:00 GMT",
@@ -35,39 +56,18 @@
     "contentSnippet": "GMは以前、2035年までに完全電動化すると発表しましたが、その計画は撤回され、現在はガソリン車とハイブリッド車に注力しています。"
   },
   {
+    "title": "大企業が直面する「地政学リスク」。インテリジェンスの正確さが日本企業の「打ち手」を変える…ダウ・ジョーンズ新事業責任者に聞く",
+    "link": "https://www.businessinsider.jp/article/2510-dow-jones/",
+    "pubDate": "Thu, 16 Oct 2025 21:00:00 GMT",
+    "source": "Business Insider Japan",
+    "contentSnippet": "経済・金融情報大手ダウ・ジョーンズが9月、地政学的リスクや安全保障に関する情報を提供する企業向けサービスを開始しました。企業活動における地政学の知見の重要性が高まっています。"
+  },
+  {
     "title": "Windows 11 PCを「すべてAI PCにする」マイクロソフトの狙い。「AIとの共同作業」で10→11移行を促進",
     "link": "https://www.businessinsider.jp/article/2510-microsoft-copilot-vision-actions/",
     "pubDate": "Thu, 16 Oct 2025 13:08:04 GMT",
     "source": "Business Insider Japan",
     "contentSnippet": "マイクロソフトは、「すべてのWindows PCをAI PCにする」方針を明らかに。音声でPCを操作し、画面に映るものをAIが認識する未来のPC体験、その詳細と狙いを解説します。"
-  },
-  {
-    "title": "高級腕時計の中古市場が活況…世代別の売れ筋アイテムを紹介",
-    "link": "https://www.businessinsider.jp/article/2510-popular-preowned-luxury-watches-by-generation-the-realreal-report/",
-    "pubDate": "Thu, 16 Oct 2025 10:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "ベビーブーマー世代はロレックスのデイトジャストを好む一方、ミレニアル世代はロレックスのデイデイトを選ぶ傾向にあります。"
-  },
-  {
-    "title": "9割の女性が一斉に仕事を休む。ジェンダー後発国が世界1位になる道のり［10/25〜全国順次公開］",
-    "link": "https://www.businessinsider.jp/article/2510-womens-day-off/",
-    "pubDate": "Thu, 16 Oct 2025 09:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "現在ジェンダーギャップ指数で16年連続1位を誇るアイスランド。しかし1970年代はわずか5%、ジェンダー平等の「後発国」でした。"
-  },
-  {
-    "title": "61歳の私は約1億円の蓄えがあっても、引退するのがが怖い……。もっと貯めて、もっと早く不動産投資を始めればよかった",
-    "link": "https://www.businessinsider.jp/article/2510-boomer-saved-650000-retirement-fears-not-enough/",
-    "pubDate": "Thu, 16 Oct 2025 08:30:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "ダン・スティーヴン・エリクソン氏は、主に教師のキャリアを通じて65万ドル（約1億円）の退職資金を築きました。しかし、資産が増えたにもかかわらず、退職に不安を感じ、もっと早く投資を始めればよかったと思っているそうです。"
-  },
-  {
-    "title": "出社を辞め、スクールバスで旅して暮らす30代が公開した「私の収支」…フリーランスで4桁万円の収入を得る方法",
-    "link": "https://www.businessinsider.jp/article/283445c/",
-    "pubDate": "Thu, 16 Oct 2025 08:00:00 GMT",
-    "source": "Business Insider Japan",
-    "contentSnippet": "アリス・エヴァディーンさんはデジタルノマドの生活を支えるために複数の仕事をしていますが、毎日数時間しか働かずに十数万ドルの収入を得ているそうです。"
   },
   {
     "title": "AIとロボット職人の融合―、次世代電池開発を支える「TeraSpace」とは",
